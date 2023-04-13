@@ -1,0 +1,9 @@
+input {
+    background-color: aqua;
+    padding: 10px;
+}
+.colorChange{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+}
