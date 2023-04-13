@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './cmpon5.css';
+import './style.css';
 
 function Compon5() {
 
